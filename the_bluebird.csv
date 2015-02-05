@@ -1,0 +1,189 @@
+species,year,month,day,location,county,number,volume,issue
+vira,2003,december,20,columbia,boone,5,71,2
+year,2003,august,27,slnwr,chariton,1,71,1
+year,2003,october,9,wrp ,linn,1,71,1
+year,2003,october,11,dexter rice fields,stoddard,1,71,1
+vira,2003,september,1,columbia,boone,2,71,1
+vira,2003,october,11,dexter rice fields,stoddard,7,71,1
+vira,2003,october,21,columbia,boone,1,71,1
+sora,2003,august,29,ccnwr,lincoln,8,71,1
+sora,2003,october,11,dexter rice fields,stoddard,400,71,1
+sora,2003,october,21,columbia,boone,1,71,1
+year,2003,may,10,bradford farms,boone,1,70,3
+kira,2003,spring,spring,prarie slough ca,lincoln,1,70,3
+vira,2003,may,10,tunas,na,1,70,3
+kira,2004,april,30,prarie slough ca,lincoln,1,71,3
+vira,2004,may ,8,highway v,lincoln,1,71,3
+sora,2004,may,8,cooley ca,clay,6,71,3
+vira,2004,december,18,columbia,boone,1,72,2
+vira,2005,december,17,mcbain wetland,boone,12,73,2
+blra,2005,october,9,slnwr,livingstone,1,73,1
+vira,2005,october,8,columbia,boone,1,73,1
+sora,2005,august,21,dexter rice fields,stoddard,6,73,1
+sora,2005,november,3,columbia,boone,4,73,1
+year,2005,april,26,scnwr,holt,1,72,3
+year,2005,april,25,scnwr,holt,1,72,3
+vira,2006,december,16,mcbaine wetland,boone,7,74,2
+sora,2006,december,16,mcbaine wetland,boone,2,74,2
+kira,2006,september,12,bkca,lincoln,1,74,na
+vira,2006,october,8,slnwr,livingstone,1,74,na
+sora,2006,august,15,weldon spring,st charles,1,74,na
+sora,2006,august,21,fgca,livingstone,20,74,na
+sora,2006,september,2,dexter rice fields,stoddard,39,74,na
+sora,2006,october,1,dexter rice fields,stoddard,30,74,na
+sora,2006,september,5,scnwr,holt,37,74,na
+sora,2006,november,15,clinton wetlands,henry,8,74,na
+kira,2006,may,na,ccnwr,lincoln,8,73,3
+kira,2006,may ,na,bkca,lincoln,6,73,3
+vira,2006,april ,22,four rivers,vernon,1,73,3
+vira,2006,april,15,ebca,boone,1,73,3
+vira,2006,may,6,bob brown,holt,1,73,3
+vira,2006,may ,8,bob brown,holt,1,73,3
+vira,2006,may,19,na,lincoln,5,73,3
+vira,2006,may,19,na,st louis,1,73,3
+vira,2006,may,20,bkca,lincoln,2,73,3
+sora,2006,april,30,ebca,boone,43,73,3
+sora,2006,february,5,mcbain wetland,boone,1,73,2
+vira,2007,december,15,mcbain wetland,boone,4,75,na
+sora,2007,december,15,mcbain wetland,boone,1,75,na
+year,2007,october,6,bkca,lincoln,1,75,na
+kira,2007,september,9,rmbs,boone,1,75,na
+vira,2007,august,3,na,green,1,75,na
+vira,2007,october,6,bkca,lincoln,4,75,na
+sora,2007,august,5,dexter rice fields,stoddard,1,75,na
+sora,2007,september,29,bkca,lincoln,39,75,na
+kira,2007,May,12,ccnwr,lincoln,2,74,
+vira,2007,March,23,NA,NA,1,74,
+year,2008,september,24,slnwr,chariton,1,76,1
+year,2008,september,24,bkca,lincoln,1,76,1
+blra,2008,may,3,bloomfield,stoddard,3,75,3
+kira,2008,may,28,cooley CA,clay,1,75,3
+sora,2008,april ,5,osca,stoddard,1,75,3
+kira,2009,may,2,osca,stoddard,1,76,NA
+kira,2009,may,9,osca,stoddard,1,76,NA
+kira,2009,may,22,Bigelow marsh,Holt,1,76,NA
+vira,2009,april,29,chillicothe,livingstone,1,76,NA
+vira,2009,december,31,mcbain wetland,Boone,3,76,2
+vira,2009,August,10,slnwr,livingstone,1,77,
+vira,2009,september,24,KMOS tower,Morgan,11,77,
+sora,2009,August,29,Bkca,lincoln,1,77,
+sora,2009,september,14,slnwr,livingstone,125,77,
+sora,2009,september,24,KMOS tower,Morgan,4,77,
+sora,2009,october,3,Bkca,lincoln,15,77,
+year,2011,october,17,Slnwr,livingstone,1,79,1
+year,2011,october,27,vswp,NA,1,79,1
+year,2011,october,29,vswp,NA,1,79,1
+sora,2011,october,8,bkca,lincoln,10,79,1
+kira,2012,May,13,TRW,NA,1,79,NA
+vira,2012,april,21,RMBS,NA,2,79,NA
+sora,2012,March,17,osca,stoddard,1,79,NA
+vira,2012,May,12,NA,Boone,8,79,NA
+sora,2012,May,21,LCCL,NA,2,79,NA
+vira,2012,August,26,RMBS,boone,2,80,NA
+sora,2012,August,26,RMBS,boone,30,80,NA
+vira,2013,August,26,RMBS,NA,2,80,NA
+vira,2013,October,13,Bkca,lincoln,1,80,NA
+sora,2013,August,26,RMBS,Boone,30,80,NA
+vira,2011,april,7,osca,stoddard,1,78,3
+vira,2011,april ,26,slnwr,livingstone,1,78,3
+sora,2011,May,14,NA,holt,38,78,3
+year,2010,october,21,CBCA,st charles,1,78,1
+kira,2010,August,10,slnwr,livingstone,2,78,1
+vira,2010,may ,11,gpca,saline,3,77,3
+sora,2010,april,18,osca,stoddard,27,77,3
+kira,2010,january,3,ccnwr,lincoln,1,77,NA
+vira,1979,August,11,Schell-osage,NA,1,47,1
+vira,1979,september,26,Schell-osage,NA,1,47,1
+year,1980,april,26,bigelow marsh,NA,2,47,3
+kira,1980,May,12,slnwr,livingstone,1,47,3
+sora,1980,july,20,scnwr,holt,2,47,4
+kira,1978,August,20,S.O,NA,2,46,1
+year,1978,september,26,NA,st louis,1,46,1
+kira,1979,May,9,scnwr,holt,1,46,3
+vira,1979,May,1,scnwr,holt,1,46,3
+vira,1979,May,13,scnwr,holt,1,46,3
+year,1979,april,17,scnwr,holt,7,46,3
+vira,1979,june,23,NA,Platte,1,46,4
+kira,1978,May,NA,S.O.,NA,2,45,3
+kira,1978,May,NA,scnwr,NA,2,45,3
+vira,1978,may ,5,S.O.,NA,6,45,3
+vira,1978,mAY,16,BIGelow marsh,Holt,10,45,3
+sora,1978,April,na,SCNwr,Holt,5,45,3
+sora,1978,aPRil,NA,s.o.,na,5,45,3
+YERA,1978,April,25,SCNwr,HOLt,2,45,3
+vira,1978,June,10,BIGelow marsh,HOLt,1,45,4
+vira,1978,June,29,na,ST CLAIRE,1,45,4
+sora,1978,June,21,REED WA,na,2,45,4
+kira,1976,August,na,SCHell-osage,na,2,44,3
+kira,1975,AUGust,17,SCNWr,HOLt,2,44,1
+blra,1980,SEPtember,13,LAKE STOCKTON,na,1,48,1
+kira,1981,May,16,TSCA,na,1,48,3
+vira,1981,may ,3,BRENTWOOD,na,1,48,3
+Vira,1981,May,7,TSCA,na,1,48,3
+YERA,1981,May,4,Slnwr,na,1,48,3
+kira,1981,SEPTember,16,MTCWA,NA,1,49,1
+kira,1982,May,na,TSCA,na,4,49,3
+kira,1982,may ,20,DCCA,na,2,49,3
+Vira,1982,April,23,MTCWA,NA,1,49,3
+Vira,1982,April,24,LBM,na,1,49,3
+sora,1982,April,24,LBM,na,1,49,3
+sora,1982,may ,8,MTCWA,na,1,49,3
+kira,1982,June,7,TSCA,NA,1,49,4
+kira,1982,June,12,LAKE ELSEA,na,1,49,4
+kira,1982,June,26,MARIAS TEMPS CLAIR,na,1,49,4
+sora,1982,JUNe,26,MARIAS TEMPS CLAIR,na,1,49,4
+kira,1983,May,4,MTCWA,nA,4,50,3
+sora,1983,May,4,MTCWA,nA,60,50,3
+kira,1983,June,na,TSCA,na,3,50,4
+kira,1983,June,11,MTCWA,na,1,50,4
+Vira,1983,jUNE,na,SCNWr,na,1,50,4
+sora,1983,NOVember,6,SCNWr,na,1,51,1
+YERA,1984,April,13,TUCKER PRARIE,NA,1,51,3
+YERA,1984,April,14,TUCKER PRARIE,NA,1,51,3
+kira,1984,May,na,TSCA,NA,1,51,3
+Vira,1984,May,10,TSCA,na,1,51,3
+sora,1984,may ,9,SPRINGFIELD,na,4,51,3
+sora,1984,may ,12,SPRINGFIELD,na,4,51,3
+sora,1984,May,9,LITTLE CREVE COEUR,NA,1,51,3
+kira,1984,June,na,TSCA,na,12,51,4
+sora,1984,jUNE,na,na,IRON,1,51,4
+kira,1984,september,22,montrose,henry,1,52,1
+kira,1984,october,14,tsCA,NA,1,52,1
+year,1984,september,NA,independence,NA,1,52,1
+year,1984,october,20,bkca,NA,1,52,1
+year,1984,october,21,bkca,NA,1,52,1
+vira,1984,september,26,kansas city,NA,2,52,1
+blra,1985,May,10,whetstone creek CA,NA,1,52,3
+kira,1985,May,12,mingo,bollinger,1,52,3
+vira,1985,may ,15,scnwr,holt,1,52,3
+vira,1985,june,8,NA,Cass,1,52,4
+vira,1986,february,25,jefferson city,NA,2,53,2
+vira,1986,february,27,jefferson city,NA,2,53,2
+sora,1987,september,13,slnwr,livingstone,50,55,1
+sora,1987,october,9,mound city,holt,1,55,1
+year,1974,sepTember,22,cape giarardeau,NA,1,42,2
+year,1974,april,6,TUCKER PRARIE,NA,1,41,3
+vira,1972,noVember,15,maryville,NA,1,40,1
+vira,1972,june,26,charleston,NA,1,39,4
+kira,1971,auGust,27,scnwr,holt,30,39,1
+year,1972,april,15,rosendale,NA,1,39,3
+blra,1972,May,25,scnwr,NA,1,39,3
+year,1971,april,26,NA,st charles,1,38,2
+blra,1971,april,28,lake contrary,NA,1,38,2
+kira,1969,May,NA,scnwr,holt,1,36,3
+vira,1969,May,19,scnWr,holt,25,36,3
+kira,1968,july,14,scnWr,holt,1,36,2
+vira,1968,june,1,scnWr,holt,1,36,2
+blra,1968,july,17,scnWr,holt,1,36,2
+vira,1967,sepTember,13,creve coeur lake,St Louse,1,35,1
+kira,1967,May,14,scnwr,holt,1,34,2
+kira,1967,May,19,scnwr,holt,2,34,2
+kira,1967,april,25,NA,st louis,1,34,2
+vira,1965,october,24,swan lake IL,illinois,1,33,1
+year,1965,sepTember,11,gillbet lake,NA,1,33,1
+year,1964,May,12,batchtown,NA,1,31,2
+sora,1964,August,9,scnwr,holt,2,31,3
+blra,1963,april,20,beverley lake,NA,1,30,2
+year,1963,october,5,creve coeur lake,NA,1,30,4
+blra,1963,september,21,Ozark,NA,1,30,4
+kira,1962,june,17,beverley lake,NA,1,29,3
